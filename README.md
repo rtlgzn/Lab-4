@@ -1,4 +1,5 @@
 # Lab-4
+# Stebin George and Renata Toleugazina
 # Revenue Recognition Problem (10 minutes)
 
 ## What is the Revenue Recognition problem?
